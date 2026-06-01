@@ -93,3 +93,37 @@
 </table>
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+# 🌐 Connect with me:
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+**LinkedIn**
+
+<a href="https://linkedin.com/in/satya-mishra-link">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</td>
+<td align="center" width="33%">
+
+**Gmail**
+
+<a href="mailto:satyamishra0611@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</td>
+<td align="center" width="33%">
+
+**GitHub**
+
+<a href="https://github.com/satyamishra-tech">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
