@@ -4,11 +4,18 @@
 <img align="right" alt="coding" width="350" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5">
 <br>🎓 Final-year CSE (AI/ML) student passionate about technology and innovation.<br>💻 Love building projects with Python, AI, and Web Development.<br>🚀 Learning something new every day and applying it through hands-on projects.<br>🤝 Open to collaborating on interesting ideas and connecting with fellow developers.
  <br></br>
- <img src="https://komarev.com/ghpvc/?username=satyamishra-tech&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=satyamishra-tech&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
+  <a href="mailto:satyamishra0611@gmail.com">
+    <img src="https://img.shields.io/badge/Open_to_Work-green?style=flat&logo=googlemeet&logoColor=white" alt="Open to Work" />
+  </a>
+</p>
+
+<img src="https://img.shields.io/badge/Coffee-Powered-brown?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
 <br>
 
-<br>
+
 
 # 🔧  Tech Stack:
 <br>
