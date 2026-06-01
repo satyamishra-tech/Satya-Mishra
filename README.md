@@ -134,3 +134,60 @@
 </td>
 </tr>
 </table>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Turning_Coffee_Into_Code-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
+</p>
+ <h1>🚀 Featured projects:</h1>
+<br>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### ♻️ [WasteZero](https://github.com/satyamishra-tech/wastezero)
+Smart waste pickup platform connecting citizens, NGOs & volunteers with real-time chat and role-based dashboards.
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+### 🚌 [Smart Campus Bus](https://github.com/satyamishra-tech/Smart-Campus-Bus-Monitoring-System)
+Campus bus tracker with GPS simulation, AI-based ETA prediction & role-based access for students, drivers & admins.
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### 💸 [FundTracer](https://github.com/satyamishra-tech/Fundtracer-0)
+Milestone-based fundraising with AWS Textract doc verification & Gemini AI chatbot for full donation transparency.
+
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/-Gemini_AI-4285F4?style=flat&logo=google&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+### 🏛️ [SimasthaSetu](https://github.com/satyamishra-tech/SimasthaSetu)
+Crowd-safety & SOS platform for Kumbh Mela with YOLO ML heatmaps, weather hazard alerts & chatbot assistance.
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat&logoColor=black)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+</td>
+</tr>
+</table>
