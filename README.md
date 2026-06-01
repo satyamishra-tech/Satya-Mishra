@@ -1,12 +1,16 @@
-# 💫 About Me:
-👋 Hi, I'm Satya<br><br>🎓 Final-year CSE (AI/ML) student passionate about technology and innovation.<br>💻 Love building projects with Python, AI, and Web Development.<br>🚀 Learning something new every day and applying it through hands-on projects.<br>🤝 Open to collaborating on interesting ideas and connecting with fellow developers.
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+<br>
+<h2 align="center">Hi 👋, I'm Satya Mishra</h2>
+<img align="right" alt="coding" width="350" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5">
+<br>🎓 Final-year CSE (AI/ML) student passionate about technology and innovation.<br>💻 Love building projects with Python, AI, and Web Development.<br>🚀 Learning something new every day and applying it through hands-on projects.<br>🤝 Open to collaborating on interesting ideas and connecting with fellow developers.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satya-mishra-link) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satyamishra0611@gmail.com) 
+<br><br>
+
+<br>
 
 # 🔧  Tech Stack:
-
+<br>
 <table align="center">
 <tr>
 <td align="center" width="33%">
