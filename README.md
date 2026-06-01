@@ -191,3 +191,20 @@ Crowd-safety & SOS platform for Kumbh Mela with YOLO ML heatmaps, weather hazard
 </td>
 </tr>
 </table>
+
+<br>
+<h1> ✍️ Quote</h1> 
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile ⭐
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Made_with-❤️_and_☕-blue?style=for-the-badge" />
+</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
